@@ -1,4 +1,4 @@
-# Nextjs 13
+# Nextjs App
 
 ## Getting Started
 
