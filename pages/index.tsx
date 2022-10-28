@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 
-import Navbar from "../components/Navbar";
+import Navbar from "../app/components/Navbar";
 import styles from "../styles/Home.module.css";
 import "../styles/Navbar.module.css";
 
